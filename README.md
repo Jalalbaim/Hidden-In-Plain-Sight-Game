@@ -3,3 +3,4 @@ Hidden in Plain Sight" is a captivating multiplayer game where one player attemp
 # Menu 
 ![Screenshot from 2023-05-06 15-29-36](https://user-images.githubusercontent.com/110737334/236627513-50ab8e64-1000-4f16-a9a0-9017977d99e4.png)
 # Game 
+![Screenshot from 2023-05-06 15-29-36](https://user-images.githubusercontent.com/110737334/236627563-32f8c218-7a97-4357-9296-ace534717579.png)

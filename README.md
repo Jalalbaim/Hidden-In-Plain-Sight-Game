@@ -10,10 +10,10 @@ Next comes the “Sources” folder packed with implementation files (.cpp), whi
 Last but not least, the “Others” folder contains artwork,and resources relevant to my game’s visual presentation. Investigate the illustrations content to understand how I assembled the game’s appearance.
 # Game Specification :
 Possible user interactions and features to implement:
--A menu allowing the user to start a new game or resume a previously saved session.
--Display of the game area where the first player controls the cursor and the second player hides among a crowd of randomly moving characters. Before the game starts, the keyboard player is informed of their character's location by a green rectangle surrounding them.
--Ability for the keyboard player to control their character's movement in four directions (up, down, left, right) whereas the uncontrollable characters have only one direction of motion (forward).
--Display of a "defeat" message for the mouse player when the keyboard player reaches the finish line.
--Management of the mouse player's actions: if the wrong character is clicked, a message indicating defeat will be displayed.
--An "End Game" button within the game window opening a new window permitting the user to save the current state of play or close the window without saving progress.
--If a game has been saved, the "Save" button in the main menu allows the user to continue playing from their previous position by displaying the character locations again.
+- A menu allowing the user to start a new game or resume a previously saved session.
+- Display of the game area where the first player controls the cursor and the second player hides among a crowd of randomly moving characters. Before the game starts, the keyboard player is informed of their character's location by a green rectangle surrounding them.
+- Ability for the keyboard player to control their character's movement in four directions (up, down, left, right) whereas the uncontrollable characters have only one direction of motion (forward).
+- Display of a "defeat" message for the mouse player when the keyboard player reaches the finish line.
+- Management of the mouse player's actions: if the wrong character is clicked, a message indicating defeat will be displayed.
+- An "End Game" button within the game window opening a new window permitting the user to save the current state of play or close the window without saving progress.
+- If a game has been saved, the "Save" button in the main menu allows the user to continue playing from their previous position by displaying the character locations again.

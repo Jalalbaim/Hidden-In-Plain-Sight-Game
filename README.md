@@ -5,6 +5,6 @@ Hidden in Plain Sight" is a captivating multiplayer game where one player attemp
 # Game :
 ![Screenshot from 2023-05-06 15-30-16](https://user-images.githubusercontent.com/110737334/236627640-a875d070-70d1-4aba-bc8d-c129e49b7f27.png)
 # Explanations : 
-The first folder, labeled “Headers,” houses all of the header files (*.h) providing interfaces, declaring functions, and implementing common features throughout my software architecture. Reviewing these components can aid others in understanding my programming style and organization methods.
-Next comes the “Sources” folder packed with implementation files (*.cpp), which expose the inner workings of my application’s crucial components. Peruse the contents here to gain insights into my problem-solving approaches, data structure usage, and other vital aspects.
+The first folder, labeled “Headers,” houses all of the header files (.h) providing interfaces, declaring functions, and implementing common features throughout my software architecture. Reviewing these components can aid others in understanding my programming style and organization methods.
+Next comes the “Sources” folder packed with implementation files (.cpp), which expose the inner workings of my application’s crucial components. Peruse the contents here to gain insights into my problem-solving approaches, data structure usage, and other vital aspects.
 Last but not least, the “Others” folder contains artwork,and resources relevant to my game’s visual presentation. Investigate the illustrations content to understand how I assembled the game’s appearance.

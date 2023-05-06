@@ -14,6 +14,6 @@ Possible user interactions and features to implement:
 - An "End Game" button within the game window opening a new window permitting the user to save the current state of play or close the window without saving progress.
 - If a game has been saved, the "Save" button in the main menu allows the user to continue playing from their previous position by displaying the character locations again.
 # Explanations : 
-The first folder, labeled “Headers,” houses all of the header files (.h) providing interfaces, declaring functions, and implementing common features throughout my software architecture. Reviewing these components can aid others in understanding my programming style and organization methods.
-Next comes the “Sources” folder packed with implementation files (.cpp), which expose the inner workings of my application’s crucial components. Peruse the contents here to gain insights into my problem-solving approaches, data structure usage, and other vital aspects.
-Last but not least, the “Others” folder contains artwork,and resources relevant to my game’s visual presentation. Investigate the illustrations content to understand how I assembled the game’s appearance.
+- The first folder, labeled “Headers,” houses all of the header files (.h) providing interfaces, declaring functions, and implementing common features throughout my software architecture. Reviewing these components can aid others in understanding my programming style and organization methods.
+- Next comes the “Sources” folder packed with implementation files (.cpp), which expose the inner workings of my application’s crucial components. Peruse the contents here to gain insights into my problem-solving approaches, data structure usage, and other vital aspects.
+- Last but not least, the “Others” folder contains artwork,and resources relevant to my game’s visual presentation. Investigate the illustrations content to understand how I assembled the game’s appearance.
